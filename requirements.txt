@@ -1,0 +1,23 @@
+# Core
+streamlit==1.26.0
+pandas==2.1.0
+plotly==5.16.1
+
+# Ollama LLM integration
+ollama==0.5.3
+httpx>=0.27
+
+# PDF and CSV handling
+PyPDF2==3.1.0
+openpyxl==3.1.2
+
+# Text-to-speech (Read-to-me)
+pyttsx3==2.90
+
+# Web scraping for reports
+beautifulsoup4==4.12.2
+requests==2.32.0
+lxml==4.9.3
+
+# Optional: for charts in PDFs/Reports
+matplotlib==3.8.0
